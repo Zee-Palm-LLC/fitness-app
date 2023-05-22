@@ -1,16 +1,10 @@
-# fitness_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Fitness App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Fitness App UI with onboarding and home screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeepalm-training-grounds/fitness-app/assets/128903428/23f1c192-58ac-48dd-9349-808d4162bad1" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/fitness-app/assets/128903428/906e51ee-cd3b-4e7e-bdca-081d3aea8af5" width="200" height="400" />
